@@ -1,0 +1,23 @@
+.header {
+    background: url('/src/img/header-bg.jpg') no-repeat center top / cover;
+    padding-top: 57px;
+    color: #fff;
+    padding-bottom: 322px;
+}
+.container{
+    width: 1170px;
+
+    margin: 0 auto;
+}
+
+header a {
+    color: #fff;
+}
+
+.logo {
+    margin-right: 69px;
+}
+
+section{
+    padding-top: 113px;
+}

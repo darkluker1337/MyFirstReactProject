@@ -1,0 +1,15 @@
+.description{
+    display: flex;
+    justify-content: space-between;
+}
+
+.description p{
+	font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    text-align: justify;
+    line-height: 1.62em;
+}
+
+.desc-left, .desc-right {
+	width: 567px;
+}

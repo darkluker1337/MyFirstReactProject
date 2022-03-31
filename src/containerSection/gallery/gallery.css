@@ -1,0 +1,14 @@
+.gallery{
+    margin-top: 67px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gallery img{
+    transition: all 0.5s ease;
+}
+
+.gallery img:hover{
+    box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+    transform: scale(1.1);
+}
