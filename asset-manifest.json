@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MyFirstReactProject/static/css/main.fb778407.css",
+    "main.js": "/MyFirstReactProject/static/js/main.e4cd40ac.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MyFirstReactProject/static/js/787.28cb0dcd.chunk.js",
+    "static/media/header-bg.jpg": "/MyFirstReactProject/static/media/header-bg.e9b60844d6ea9619596b.jpg",
+    "static/media/img3.png": "/MyFirstReactProject/static/media/img3.b4b3ea5896f35881f153.png",
+    "static/media/img1.png": "/MyFirstReactProject/static/media/img1.2a43ab3ff191b1ba16ac.png",
+    "static/media/img2.png": "/MyFirstReactProject/static/media/img2.d84f9a36af346738d3e0.png",
+    "static/media/logo.svg": "/MyFirstReactProject/static/media/logo.51879737766fbb81652e2cf396fc3f10.svg",
+    "index.html": "/MyFirstReactProject/index.html",
+    "main.fb778407.css.map": "/MyFirstReactProject/static/css/main.fb778407.css.map",
+    "main.e4cd40ac.js.map": "/MyFirstReactProject/static/js/main.e4cd40ac.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MyFirstReactProject/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb778407.css",
+    "static/js/main.e4cd40ac.js"
+  ]
+}
